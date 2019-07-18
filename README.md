@@ -1,3 +1,3 @@
 # LearningDB
 
-Learning how some tech of DB, like Redis, MySQL, MongoDB
+Learning some tech of DB, like Redis, MySQL, MongoDB
